@@ -1,10 +1,10 @@
 {
     "tut3-model.pt": {
-        "Test Loss": 3.208,
-        "Test PPL": 24.719
+        "Test Loss": 3.2075631618499756,
+        "Test PPL": 24.718777113568002
     },
     "relu-model.pt": {
-        "Test Loss": 3.186,
-        "Test PPL": 24.188
+        "Test Loss": 3.1858740746974945,
+        "Test PPL": 24.18842165582174
     }
 }
