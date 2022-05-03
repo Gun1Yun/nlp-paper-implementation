@@ -1,0 +1,10 @@
+{
+    "tut3-model.pt": {
+        "Test Loss": 3.208,
+        "Test PPL": 24.719
+    },
+    "relu-model.pt": {
+        "Test Loss": 3.186,
+        "Test PPL": 24.188
+    }
+}
